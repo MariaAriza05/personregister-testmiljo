@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY app.py .
 
-# Create directory for SQLite database
+# Create directory for SQLite database 
 RUN mkdir -p /data
 
 CMD ["python", "app.py"]
