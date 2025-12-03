@@ -4,7 +4,7 @@
 Ett enkelt system för att hantera testdata på ett GDPR-kompatibelt sätt.
 
 
-## Funktioner !!!!!  GHHG
+## Funktioner
 
 
 - Skapa och initiera databas med testanvändare
